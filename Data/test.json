@@ -2,6 +2,7 @@
     {
         "id": "1",
         "name": "test",
-        "value": "50"
+        "value": "50",
+        "thing": "thingtest"
     }
 ]
